@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282324128109",
+    "project_id": "theshave-f798e",
+    "storage_bucket": "theshave-f798e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282324128109:android:79e3f0dc9bddc757d20a64",
+        "android_client_info": {
+          "package_name": "com.example.theshave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282324128109-gkuo82f2mmbs4hvm8opj538r7b9icmio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theshave",
+            "certificate_hash": "082f114f071a15d7c737ccc4be8ad65bf17db760"
+          }
+        },
+        {
+          "client_id": "282324128109-lhkt3lvuh9u5jn1e442bbknh11s590qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHDz9r1KdWXpgb7DkL-BuO9QQR3krQMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282324128109-lhkt3lvuh9u5jn1e442bbknh11s590qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
